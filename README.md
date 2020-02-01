@@ -1,2 +1,2 @@
 # naive-bayes-classifier
-Naive Bayes classifier of movie reviews
+Implementation of a Naive Bayes classifier for sentiment analysis of movie reviews
